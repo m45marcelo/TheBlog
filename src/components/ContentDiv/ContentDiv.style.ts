@@ -48,12 +48,13 @@ export const DivCards = styled.div.withConfig({
     shouldForwardProp: (prop) => prop !== "gridTemplate" && prop !== "gridGap"
 })<DivCardsProps>`
     width: 100%;
-    max-width: 100%;
     display: grid;
     grid-template-columns: ${({gridTemplate}) => gridTemplate};
     grid-gap: ${({gridGap}) => gridGap};
 
     @media (max-width: 1024px) {
         grid-template-columns: repeat(2, 1fr);
+        grid-gap: 10px;
+        width: 500px;
     }
 `;

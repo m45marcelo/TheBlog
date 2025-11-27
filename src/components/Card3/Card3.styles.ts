@@ -16,6 +16,11 @@ export const Card3Container = styled.div`
     gap: 0.8rem;
     border-radius: 1rem;
     cursor: pointer;
+
+    @media (min-width: 824px) and (max-width: 1024px) {
+        flex-direction: column;
+        gap: 1rem;
+    }
 `
 
 export const Card3Image = styled.div.withConfig({
@@ -36,6 +41,11 @@ export const Card3Image = styled.div.withConfig({
         transform: scale(1.03);
         transition: 0.3s ease;
         box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.16);
+    }
+
+    @media (min-width: 824px) and (max-width: 1024px) {
+
+        width: 100%;
     }
 `
 

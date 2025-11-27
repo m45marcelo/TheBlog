@@ -71,6 +71,7 @@ export const Card1Info = styled.div.withConfig({
     margin: ${({ cardMargin }) => cardMargin};
     @media (min-width: 828px) and (max-width: 1024px){
         height: 86px;
+        margin: 10px;
     }
 `;
 

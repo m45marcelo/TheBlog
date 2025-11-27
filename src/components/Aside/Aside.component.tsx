@@ -20,7 +20,7 @@ const Aside = () => {
                 <DivTitle
                     fontSize="1.6rem"
                     marginBottom="1.4rem"
-                    maxWidth="19rem"
+                    maxWidth="100%"
                     borderBottom="2px solid #EFF0F0"
                     fontWeight="600"
                     paddingBottom="1rem"

@@ -34,7 +34,7 @@ const Card2: FunctionComponent<PropNews> = ({ news, section }) => {
                         <Card2Image
                             backgroundImage={news.image}
                             card2Height="16.4rem"
-                            card2Width="26.8rem"
+                            card2Width="100%"
                         />
                     )}
                 </Link>

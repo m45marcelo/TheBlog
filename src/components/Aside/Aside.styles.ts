@@ -10,8 +10,12 @@ export const AsideContainer = styled.aside`
     display: grid;
     gap: 3.8rem;
 
-    @media (max-width: 1024px) {
+    @media (min-width: 924px) and (max-width: 1024px) {
         width: 310px;
+    }
+
+    @media (min-width: 828px) and (max-width: 924px) {
+        width: 180px;
     }
 `
 
@@ -21,6 +25,7 @@ export const AsideDiv = styled.div`
 
     @media (max-width: 1024px) {
         margin-left: 0px;
+        width: 180px;;
     }
 `
 

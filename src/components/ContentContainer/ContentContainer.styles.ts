@@ -16,6 +16,10 @@ export const DivLeft = styled.div.withConfig({
         width: 600px;
     }
 
+    @media (min-width: 828px) and (max-width: 1024px){
+        width: 500px;
+    }
+
 `
 
 

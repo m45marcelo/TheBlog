@@ -46,6 +46,11 @@ export const Card2Container = styled.div.withConfig({
         box-shadow: 0px 0px 30px 0px rgba(0,0,0,0.16);
         transition: 0.2s ease-in;
     }
+
+    @media (min-width: 828px) and (max-width: 1024px){
+        height: 296px;
+        width: 260px;
+    }
 `;
 
 export const Card2Image = styled.div.withConfig({
