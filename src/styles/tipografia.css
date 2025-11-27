@@ -1,0 +1,52 @@
+h1{
+    font-size: 2.0rem;
+    letter-spacing: -2%;
+
+}
+
+h2{
+    font-size: 2.0;
+    letter-spacing: 1%;
+}
+
+h3{
+    font-size: 1.8rem;
+    letter-spacing: 1%;
+}
+
+p{
+    font-size: 1.6rem;
+    letter-spacing: 1%;
+}
+
+h4{
+    font-size: 1.4rem;
+    letter-spacing: -1%;
+}
+
+h5{
+    font-size: 1.2rem;
+    letter-spacing: 3%;
+}
+
+h6{
+    font-size: 1rem;
+    letter-spacing: -2%;
+}
+
+span{
+    font-size: 1.2rem;
+    color: #E8E7E7;
+}
+
+h1, h3, h5, p, span{
+    font-weight: 600;
+}
+
+h2{
+    font-weight: 700;
+}
+
+h4,h6{
+    font-weight: 500;
+}

@@ -1,0 +1,696 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "category": "economia",
+      "author": "Fernanda Costa",
+      "date": "17/03/2025",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/07/GettyImages-1217873141.jpg?fit=1280%2C853&quality=50&strip=all",
+      "title": "OCDE reduz previsão do PIB do Brasil em 2025 para 2,1%",
+      "subtitle": "Organização aponta que elevação de juros e tarifas impactará crescimento econômico do país.",
+      "content": "A OCDE reduziu a previsão de crescimento do Brasil em 2025, de 2,3% para 2,1%, devido à elevação de juros pelo Banco Central e ao impacto de tarifas sobre exportações para os EUA. A inflação projetada para 2025 subiu de 4,2% para 5,4%.",
+      "tag": [
+        "Mundo"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "esporte",
+      "author": "Ana Beatriz",
+      "date": "12/04/2025",
+      "image": "https://otempo.scene7.com/is/image/sempreeditora/jornal-aponta-saida-de-ancelotti-que-pode-estar-mais-proximo-da-selecao?qlt=90&ts=1744891878892&dpr=off",
+      "title": "Brasil volta a buscar Ancelotti como técnico da seleção",
+      "subtitle": "CBF tenta contratar treinador italiano após saída de Dorival Júnior.",
+      "content": "A CBF retomou as negociações com Carlo Ancelotti para assumir a seleção brasileira. Apesar de ter contrato com o Real Madrid até 2026, o italiano é o principal alvo da entidade, que busca resolver a situação antes dos jogos contra Equador e Paraguai.",
+      "tag": [
+        "Brasil",
+        "Seleção",
+        "Futebol"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "games",
+      "author": "Ana Beatriz",
+      "date": "20/02/2025",
+      "image": "https://i.uai.com.br/1kRAalAMF_a3ZdJcJq2hJNbmxh8=/750x0/imgsapp2.uai.com.br/app/noticia_133890394703/2023/12/22/334462/o-counter-strike-2-teve-pico-de-12-milhao-de-jogadores-em-30-dias_2_147617.jpg",
+      "title": "CS:GO 2 ultrapassa 2 milhões de jogadores simultâneos no lançamento",
+      "subtitle": "Sucesso mundial reafirma popularidade do shooter da Valve.",
+      "content": "Counter-Strike 2 foi lançado oficialmente em março de 2025 e bateu recorde de jogadores simultâneos. A atualização traz melhorias gráficas com a Source 2, mapas reformulados e novo sistema de servidores.",
+      "tag": [
+        "Mundo"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "tecnologia",
+      "author": "Bruno Lima",
+      "date": "27/01/2025",
+      "image": "https://www.uai.com.br/uainoticias/wp-content/uploads/2025/04/Gemini-inteligencia-artificial_1744204708914.jpg",
+      "title": "Inteligência Artificial é integrada a celulares populares no Brasil",
+      "subtitle": "Modelos intermediários agora vêm com assistentes baseados em IA.",
+      "content": "Empresas como Samsung e Motorola começaram a incluir assistentes com IA generativa mesmo em celulares intermediários vendidos no Brasil. O recurso permite traduções, resumos de textos e geração de imagens diretamente no aparelho.",
+      "tag": [
+        "IA"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "entretenimento",
+      "author": "Vinícius Prado",
+      "date": "04/04/2025",
+      "image": "https://diariodorio.com/wp-content/uploads/2025/03/Saiba-quando-sera-o-show-de-Lady-Gaga-em-Copacaban0033215900202412051505.webp",
+      "title": "Lady Gaga anuncia show gratuito em Copacabana para 1,5 milhão de pessoas",
+      "subtitle": "Apresentação faz parte da promoção do novo álbum 'Mayhem'.",
+      "content": "Lady Gaga fará um show gratuito na praia de Copacabana, no Rio de Janeiro, em 3 de maio de 2025. O evento faz parte do lançamento de seu novo álbum 'Mayhem' e é esperado um público de 1,5 milhão de pessoas.",
+      "tag": [
+        "Brasil",
+        "Música"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "economia",
+      "author": "Rafael Almeida",
+      "date": "10/04/2025",
+      "image": "https://portal.euqueroinvestir.com/wp-content/uploads/2024/04/dolar-hoje_Easy-Resize.com_.jpg",
+      "title": "Dólar ultrapassa R$ 5,30 com tensão no exterior e incertezas fiscais no Brasil",
+      "subtitle": "Moeda americana sobe em meio a preocupações com política econômica.",
+      "content": "O dólar comercial fechou cotado a R$ 5,31 nesta quinta-feira (10), com investidores reagindo a tensões geopolíticas e incertezas sobre o arcabouço fiscal brasileiro. Analistas apontam que o Banco Central pode intervir caso a moeda continue a subir nos próximos dias.",
+      "tag": [
+        "Mundo"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "esporte",
+      "author": "Vinícius Prado",
+      "date": "05/04/2025",
+      "image": "https://assets.gamearena.gg/wp-content/uploads/2024/12/10193814/vini-9-1024x576.jpg",
+      "title": "Vinícius Jr. marca dois e Real Madrid avança na Champions",
+      "subtitle": "Brasileiro brilha em vitória sobre o Bayern de Munique por 3 a 1.",
+      "content": "Vinícius Júnior foi o destaque do Real Madrid na vitória contra o Bayern pelas quartas de final da Liga dos Campeões. Com dois gols e uma assistência, o atacante brasileiro foi eleito o melhor em campo e colocou os merengues com um pé na semifinal.",
+      "tag": [
+        "Brasil",
+        "Futebol",
+        "Seleção"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "games",
+      "author": "Lucas Freitas",
+      "date": "22/03/2025",
+      "image": "https://cdn.dooca.store/2147/posts/635600.jpg?v=1660671267&webp=0",
+      "title": "Fortnite anuncia colaboração com Dragon Ball Super",
+      "subtitle": "Novos personagens e poderes chegam ao battle royale.",
+      "content": "A Epic Games revelou uma nova colaboração entre Fortnite e Dragon Ball Super. Os personagens Gohan, Piccolo e Goku Black agora estão disponíveis como skins no jogo, junto com habilidades especiais como o Kamehameha e a Nuvem Voadora.",
+      "tag": [
+        "Mundo"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "tecnologia",
+      "author": "Bruno Lima",
+      "date": "14/04/2025",
+      "image": "https://portalnorte.com.br/wp-content/uploads/2024/10/meta-ia-insta.jpg",
+      "title": "Meta lança assistente de IA para WhatsApp e Instagram",
+      "subtitle": "Ferramenta responde dúvidas e gera imagens por comando.",
+      "content": "A Meta lançou um novo assistente de inteligência artificial no WhatsApp e Instagram que permite responder perguntas, gerar textos e criar imagens com base em comandos dos usuários. O recurso começa a ser liberado no Brasil ainda este mês.",
+      "tag": [
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "entretenimento",
+      "author": "Juliana Rocha",
+      "date": "15/03/2025",
+      "image": "https://portalpopline.com.br/wp-content/uploads/2023/06/zendaya-homem-aranha.jpg",
+      "title": "Zendaya é confirmada no elenco de 'Homem-Aranha 4'",
+      "subtitle": "Atriz retorna como MJ ao lado de Tom Holland.",
+      "content": "A Marvel Studios confirmou a presença de Zendaya em 'Homem-Aranha 4', reforçando o retorno da personagem MJ na nova fase do herói. O filme está previsto para estrear em julho de 2026 e será dirigido novamente por Jon Watts.",
+      "tag": [
+        "Cinema"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "economia",
+      "author": "Bruno Lima",
+      "date": "03/04/2025",
+      "image": "https://imagens.ebc.com.br/a8kXgOZYjfY2UIKb8BV6UuIbhkg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pix_0411202555.jpg?itok=R4WA3_vR",
+      "title": "Pix bate novo recorde com 180 milhões de transações em um dia",
+      "subtitle": "Sistema de pagamento instantâneo segue em expansão no Brasil.",
+      "content": "O Banco Central informou que o Pix bateu novo recorde diário com 180 milhões de transações em 2 de abril de 2025. O número mostra o crescimento contínuo do sistema, impulsionado por pequenas e médias empresas, além do uso entre pessoas físicas.",
+      "tag": [
+        "Brasil"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "esporte",
+      "author": "Carlos Silva",
+      "date": "28/03/2025",
+      "image": "https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2025/04/09113253/Taca-Copa-do-Brasil-1.jpg",
+      "title": "CBF divulga data do sorteio da Copa do Brasil. Confira",
+      "subtitle": "Os 16 clubes que irão disputar as oitavas de final do torneio terão os confrontos definidos no sorteio realizado pela CBF",
+      "content": "A Confederação Brasileira de Futebol (CBF) anunciou que o sorteio das oitavas de final da Copa do Brasil será realizado na próxima sexta-feira (30/5), às 15h30. Com o encerramento da terceira fase, os 16 times esperam a definição dos duelos e as respectivas datas.",
+      "tag": [
+        "Brasil",
+        "Futebol",
+        "Seleção"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "games",
+      "author": "Ana Beatriz",
+      "date": "11/04/2025",
+      "image": "https://www.rockstargames.com/VI/_next/image?url=%2FVI%2F_next%2Fstatic%2Fmedia%2FJason_and_Lucia_02_With_Logos_landscape.93ab5523.jpg&w=1366&q=75",
+      "title": "GTA 6 ganha trailer final e data de lançamento oficial",
+      "subtitle": "Jogo será lançado em 26 de maio de 2026 para PS5 e Xbox Series X/S.",
+      "content": "A Rockstar Games divulgou o trailer final de GTA 6, revelando novos detalhes da história e personagens. A data oficial de lançamento foi confirmada para 26 de maio de 2026. O game promete gráficos realistas e um mundo ainda mais interativo.",
+      "tag": [
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "tecnologia",
+      "author": "Bruno Lima",
+      "date": "01/04/2025",
+      "image": "https://uromedical.com.br/wp-content/uploads/2019/03/seguranca-da-cirurgia-robotica-uromedical-brasilia.jpg",
+      "title": "Brasil desenvolve robô cirurgião com IA para hospitais públicos",
+      "subtitle": "Tecnologia será testada inicialmente em São Paulo e Minas Gerais.",
+      "content": "Um grupo de pesquisadores da USP desenvolveu um robô cirurgião com IA capaz de realizar procedimentos minimamente invasivos. O robô será testado inicialmente em hospitais públicos de São Paulo e Minas, com foco em reduzir filas e tempo de espera.",
+      "tag": [
+        "Brasil",
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "entretenimento",
+      "author": "Juliana Rocha",
+      "date": "08/04/2025",
+      "image": "https://www.publishnews.com.br/estaticos/uploads/2023/05/vFjKJKbDjw9up1ATOa6jJ0rv7IELLrYgIZiy7UhnrYUxV6dFfHo0mHlCN36W2SB9eulHwSjvjfOEy4k7.jpeg",
+      "title": "Padre Marcelo Rossi anuncia autobiografia: 'Do altar ao palco'",
+      "subtitle": "Livro contará momentos de fé, fama e superação na vida do religioso.",
+      "content": "Padre Marcelo Rossi lançará em junho sua autobiografia intitulada 'Do altar ao palco'. A obra trará relatos sobre sua jornada espiritual, o sucesso na música gospel e as dificuldades enfrentadas com saúde e depressão.",
+      "tag": [
+        "Música"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "economia",
+      "author": "Bruno Lima",
+      "date": "07/03/2025",
+      "image": "https://conteudo.imguol.com.br/c/parceiros/6f/2022/07/06/inflacao-tem-influenciado-na-alta-do-preco-das-proteinas-1657138508979_v2_900x506.png",
+      "title": "Inflação oficial avança 0,47% em fevereiro e acumula alta de 4,5% em 12 meses",
+      "subtitle": "Alta foi puxada por alimentos, especialmente frutas e carnes.",
+      "content": "O IPCA, indicador oficial da inflação no Brasil, subiu 0,47% em fevereiro de 2025. Em 12 meses, o índice acumula alta de 4,5%. Alimentos e bebidas foram os principais responsáveis pela elevação, com destaque para frutas e carnes.",
+      "tag": [
+        "Brasil"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "entretenimento",
+      "author": "Vinícius Prado",
+      "date": "10/04/2025",
+      "image": "https://res.cloudinary.com/dmorb2xoh/video/upload/v1714412266/opgicw2ukk3tw6jw5quw.mp4",
+      "title": "Buraco negro supermassivo está em rota de colisão com a Via Láctea",
+      "subtitle": "Galáxia satélite da Via Láctea, possivelmente em rota de colisão, pode abrigar um buraco negro supermassivo até então desconhecido",
+      "content": "Um buraco negro com 600 mil massas solares pode estar viajando em rota de colisão com a Via Láctea a uma velocidade de aproximadamente 300 mil km/s. O mais curioso é que ele está escondido em um lugar onde teoricamente não deveria estar: nas profundezas de uma galáxia anã. A descoberta foi feita de forma indireta por arqueólogos galácticos que estavam revisando as trajetórias de 21 estrelas hipervelozes de sequência principal do tipo B (quentes e jovens) que teriam sido ejetadas do centro galáctico por um processo chamado mecanismo de Hills.",
+      "tag": [
+        "IA",
+        "Mundo"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "tecnologia",
+      "author": "Lucas Freitas",
+      "date": "13/04/2025",
+      "image": "https://res.cloudinary.com/dmorb2xoh/video/upload/v1746059336/uicba84ayhavszoxbevi.mp4",
+      "title": "Robôs, sensores e realidade virtual estão revolucionando segurança no trabalho",
+      "subtitle": "Tecnologias digitais aumentam proteção contra acidentes, mas exigem regulação urgente para evitar novos riscos, como monitoramento invasivo.",
+      "content": "A digitalização e a automação estão revolucionando a forma como o trabalho é feito em todo o mundo, e isso inclui as medidas de proteção da saúde e segurança dos trabalhadores.Um novo relatório da Organização Internacional do Trabalho, OIT, revela que inovações como robôs colaborativos, sensores inteligentes, algoritmos de gestão e realidade virtual estão promovendo ambientes de trabalho mais seguros. O levantamento, divulgado neste Dia Mundial da Segurança e Saúde no Trabalho, em 28 de abril, alerta que os potenciais riscos associados a essas tecnologias precisam ser identificados e controlados desde o início. Em diversos setores, robôs estão sendo usados para substituir trabalhadores em tarefas perigosas, como descarte de bombas, derramamentos de produtos químicos e exposição a elementos cancerígenos. No setor de mineração, por exemplo, as máquinas operam em locais de difícil acesso e alta toxicidade. No campo, drones reduzem a exposição de agricultores a pesticidas nocivos. Já na indústria pesada, braços robóticos realizam tarefas repetitivas e perigosas, como a manipulação de metais a altíssimas temperaturas.",
+      "tag": [
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "games",
+      "author": "Bruno Lima",
+      "date": "05/04/2025",
+      "image": "https://res.cloudinary.com/dmorb2xoh/video/upload/v1748574260/eeutmri6l7stlyx7vbcr.mp4",
+      "title": "Válvula de escape: games retrô estão de volta, graças à geração Z",
+      "subtitle": "Pesquisa no Reino Unido revela que 24% dos jovens possuem um console antigo",
+      "content": "Os games retrô estão voltando com tudo – e, curiosamente, grande parte do interesse vem de uma geração que cresceu depois da era do Game Boy. De acordo com uma nova pesquisa da Pringles, marca popular entre os gamers, 66% dos britânicos compraram algum tipo de tecnologia retrô nos últimos dois anos, e 24% dos jovens da geração Z possuem um console antigo. Para 89% dos jogadores, os games retrô são uma forma de se desconectar da internet e 74% afirmam que títulos nostálgicos são mais relaxantes. Enquanto 77% guardam seus consoles antigos por apego sentimental, muitos outros compraram recentemente games retrô que já estavam fora de circulação quando eles nasceram – ou, pelo menos, quando começaram a jogar.",
+      "tag": [
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "entretenimento",
+      "author": "Juliana Rocha",
+      "date": "09/04/2025",
+      "image": "https://cultura.uol.com.br/upload/tvcultura/entretenimento/20250326114344_lollapalooza2025quaisingressosestaodisponiveis.jpg",
+      "title": "Lollapalooza 2025 tem recorde de público com mais de 300 mil pessoas",
+      "subtitle": "Festival reuniu artistas como Billie Eilish, Drake e Titãs.",
+      "content": "O Lollapalooza Brasil 2025 bateu recorde de público com mais de 300 mil pessoas durante os três dias de evento. Com grandes atrações internacionais e nacionais, o festival consolidou-se como o maior da América do Sul em número de espectadores.",
+      "tag": [
+        "Brasil",
+        "Música"
+      ]
+    },
+    {
+      "id": 21,
+      "category": "economia",
+      "author": "Fernanda Costa",
+      "date": "25/03/2025",
+      "image": "https://imagens.ebc.com.br/4mwT5Y2UP7p8rYsRInFiLkMqWY8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dinheiro_caixa_mcajr_abr_2907221128.jpg?itok=ZS3zFtnC",
+      "title": "Salário mínimo pode subir para R$ 1.520 em 2026, diz governo",
+      "subtitle": "Previsão consta no projeto da LDO enviado ao Congresso.",
+      "content": "O salário mínimo pode passar de R$ 1.412 para R$ 1.520 em 2026, segundo projeção do governo federal incluída na nova proposta da Lei de Diretrizes Orçamentárias (LDO). A estimativa considera a inflação e o crescimento do PIB.",
+      "tag": [
+        "Brasil"
+      ]
+    },
+    {
+      "id": 22,
+      "category": "esporte",
+      "author": "Carlos Silva",
+      "date": "12/04/2025",
+      "image": "https://lncimg.lance.com.br/cdn-cgi/image/width=950,quality=75,fit=pad,format=webp/uploads/2016/04/29/5723bcf024537.jpeg",
+      "title": "CBF anuncia convocação da Seleção para a Copa América 2025",
+      "subtitle": "Lista inclui jovens promessas e nomes consagrados.",
+      "content": "A Confederação Brasileira de Futebol (CBF) anunciou a convocação da Seleção Brasileira para a Copa América 2025. A lista traz nomes como Vinícius Jr., Rodrygo, Bruno Guimarães e Endrick. O técnico Dorival Júnior aposta em equilíbrio entre juventude e experiência.",
+      "tag": [
+        "Brasil",
+        "Seleção",
+        "Futebol"
+      ]
+    },
+    {
+      "id": 23,
+      "category": "games",
+      "author": "Ana Beatriz",
+      "date": "06/04/2025",
+      "image": "https://psblog.com.br/wp-content/webp-express/webp-images/uploads/2024/11/image-85-750x430.png.webp",
+      "title": "Hogwarts Legacy 2 está em desenvolvimento, confirma Warner",
+      "subtitle": "Continuação do RPG deve expandir mapa e incluir novas casas mágicas.",
+      "content": "A Warner Bros confirmou que Hogwarts Legacy 2 está oficialmente em desenvolvimento. A sequência do aclamado RPG terá novas áreas exploráveis, mais liberdade de escolhas e a introdução de mecânicas inéditas para duelo e poções.",
+      "tag": [
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "tecnologia",
+      "author": "Bruno Lima",
+      "date": "29/03/2025",
+      "image": "https://sm.ign.com/ign_br/screenshot/default/imagem-2025-02-19-141321249_qkk4.jpg",
+      "title": "Apple apresenta novo iPhone SE com chip A17 e câmera aprimorada",
+      "subtitle": "Modelo será o mais acessível da linha e chega ao Brasil em maio.",
+      "content": "A Apple anunciou o novo iPhone SE 2025, que virá equipado com o chip A17 Bionic e melhorias significativas na câmera traseira. O modelo promete bom desempenho com preço mais acessível, mirando o público que busca custo-benefício.",
+      "tag": [
+        "Brasil",
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 25,
+      "category": "entretenimento",
+      "author": "Juliana Rocha",
+      "date": "10/04/2025",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaPE_DcyhKYQFQZ6qX61vjMoojISbVdsaU8v54NFWblbXWBCq9dSEOf9GO6sJ_YY2t2oXv2-Gkko9k5ZGOY5z93MtKYB4rMWhXXwVtUHh-mB5otYXC1AnWBjmWn-11JRKgE0E7iD7Ribzd4N-fFkQZ4Uyr4HgOPFA18ZzQM3Mt-n6lYeDI1B9v6xYPAnO8/s1029/o-auto-da-compadecida-2-capa-2.png",
+      "title": "'O Auto da Compadecida 2' ganha trailer e emociona fãs",
+      "subtitle": "Filme retorna com Selton Mello e Matheus Nachtergaele nos papéis clássicos.",
+      "content": "A sequência do clássico 'O Auto da Compadecida' ganhou seu primeiro trailer oficial. O filme contará com o retorno dos atores originais e traz novas aventuras de João Grilo e Chicó no sertão nordestino. A estreia está prevista para dezembro de 2025.",
+      "tag": [
+        "Cinema"
+      ]
+    },
+    {
+      "id": 26,
+      "category": "economia",
+      "author": "Rafael Almeida",
+      "date": "02/04/2025",
+      "image": "https://cdn.borainvestir.b3.com.br/2022/09/01094303/pib-o-que-e-o-produto-interno-bruto.jpeg.webp",
+      "title": "Brasil registra crescimento de 2,1% no PIB no primeiro trimestre de 2025",
+      "subtitle": "Setores de serviços e comércio puxaram a alta.",
+      "content": "O Produto Interno Bruto (PIB) do Brasil cresceu 2,1% no primeiro trimestre de 2025, comparado ao mesmo período do ano anterior. O aumento foi impulsionado pelos setores de serviços e comércio, que apresentaram um bom desempenho no período.",
+      "tag": [
+        "Brasil"
+      ]
+    },
+    {
+      "id": 27,
+      "category": "esporte",
+      "author": "Carlos Silva",
+      "date": "14/04/2025",
+      "image": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/public/2022/11/KX5yXxUK1IcmVT5xbhFe.jpg",
+      "title": "Recorde de gols: Messi marca 1000ª vez por clube e seleção",
+      "subtitle": "Craque argentino alcança mais um marco histórico na carreira.",
+      "content": "Lionel Messi atingiu a marca histórica de mil gols em sua carreira, considerando os gols por clubes e pela seleção. O argentino marcou contra o Real Madrid, se tornando o primeiro jogador a alcançar tal feito no futebol moderno.",
+      "tag": [
+        "Brasil",
+        "Seleção",
+        "Futebol"
+      ]
+    },
+    {
+      "id": 28,
+      "category": "games",
+      "author": "Lucas Freitas",
+      "date": "17/04/2025",
+      "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/08/The-Witcher-4-deve-entrar-em-producao-total-em-breve.jpg",
+      "title": "The Witcher 4: Novidades sobre o novo título da franquia",
+      "subtitle": "CD Projekt Red revela mais detalhes sobre a nova história e novos personagens.",
+      "content": "A CD Projekt Red compartilhou novos detalhes sobre 'The Witcher 4', que promete ser um dos maiores lançamentos de RPG de 2025. O jogo trará novos personagens, com um enredo que se passa em um mundo mais amplo e dinâmico, e será lançado para PS5, Xbox Series X e PC.",
+      "tag": [
+        "Mundo"
+      ]
+    },
+    {
+      "id": 29,
+      "category": "tecnologia",
+      "author": "Bruno Lima",
+      "date": "15/04/2025",
+      "image": "https://img.global.news.samsung.com/br/wp-content/uploads/2023/08/020-lifestyle-galaxy-watch6-40mm-gold-1.jpg",
+      "title": "Samsung lança novo smartwatch com monitoramento de saúde avançado",
+      "subtitle": "Novo modelo promete monitoramento 24h e recursos para fitness.",
+      "content": "A Samsung anunciou o Galaxy Watch 6, que traz avanços no monitoramento de saúde. O dispositivo conta com sensores de última geração para medir níveis de glicose, pressão arterial e oxigenação sanguínea. A novidade será lançada no mercado em maio de 2025.",
+      "tag": [
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 30,
+      "category": "entretenimento",
+      "author": "Juliana Rocha",
+      "date": "18/04/2025",
+      "image": "https://cinepop.com.br/wp-content/uploads/2025/02/capitao-america-4.jpg",
+      "title": "Novo filme da Marvel estreia com recorde de público no Brasil",
+      "subtitle": "‘Vingadores: Ultimato’ bate recordes nas bilheteiras.",
+      "content": "O filme 'Vingadores: O Último Confronto' estreou nos cinemas brasileiros e bateu recordes de público nas primeiras sessões. O longa promete revolucionar o universo cinematográfico da Marvel, com cenas de ação épicas e novas ameaças para os heróis.",
+      "tag": [
+        "Brasil",
+        "Cinema"
+      ]
+    },
+    {
+      "id": 31,
+      "category": "economia",
+      "author": "Rafael Almeida",
+      "date": "11/04/2025",
+      "image": "https://www.fecomercio.com.br/upload/img/2021/05/28/60b1005585c64-portal_desemprego_recorde_28_5.jpg",
+      "title": "Taxa de desemprego no Brasil atinge 8,7% no primeiro trimestre de 2025",
+      "subtitle": "Desemprego continua em queda, mas ainda afeta milhões.",
+      "content": "A taxa de desemprego no Brasil caiu para 8,7% no primeiro trimestre de 2025, o menor valor desde 2016. No entanto, ainda há mais de 10 milhões de pessoas em busca de emprego. O setor de serviços segue como o maior gerador de postos de trabalho.",
+      "tag": [
+        "Brasil"
+      ]
+    },
+    {
+      "id": 32,
+      "category": "esporte",
+      "author": "Vinícius Prado",
+      "date": "18/04/2025",
+      "image": "https://oprogressonet.com/images/noticias/43921/03020844_Net_Flamen.jpg",
+      "title": "Flamengo vence Atlético-MG e conquista a Supercopa do Brasil",
+      "subtitle": "Em jogo eletrizante, time carioca leva o título com gol nos minutos finais.",
+      "content": "O Flamengo venceu o Atlético-MG por 3 a 2 na final da Supercopa do Brasil, em jogo marcado por uma virada emocionante nos minutos finais. Gabriel Barbosa, o Gabigol, marcou o gol decisivo, garantindo o quarto título da competição para o time carioca.",
+      "tag": [
+        "Brasil",
+        "Futebol"
+      ]
+    },
+    {
+      "id": 33,
+      "category": "games",
+      "author": "Ana Beatriz",
+      "date": "10/04/2025",
+      "image": "https://thelastofus.com.br/wp-content/uploads/2025/08/Naughty-Dog-confirma-The-Last-of-Us-3.jpg",
+      "title": "The Last of Us Parte III confirmado pela Naughty Dog",
+      "subtitle": "A nova sequência promete expandir ainda mais o universo de Ellie e Joel.",
+      "content": "A Naughty Dog anunciou oficialmente o desenvolvimento de 'The Last of Us Parte III'. A nova sequência contará com a continuação da jornada de Ellie, agora com novas ameaças e um enredo mais profundo sobre sobrevivência e esperança.",
+      "tag": [
+        "Mundo"
+      ]
+    },
+    {
+      "id": 34,
+      "category": "tecnologia",
+      "author": "Bruno Lima",
+      "date": "02/04/2025",
+      "image": "https://www.segs.com.br/media/k2/items/cache/30ef5f818961de57d497afa81d73e301_XL.jpg",
+      "title": "5G chega a mais de 1.000 cidades no Brasil em 2025",
+      "subtitle": "Expansão da tecnologia promete melhorar a conectividade no país.",
+      "content": "O Brasil já conta com a tecnologia 5G em mais de 1.000 cidades em 2025. A expansão da rede móvel de quinta geração promete melhorar a conectividade em áreas urbanas e rurais, impulsionando tanto o mercado de telecomunicações quanto a inovação em diversos setores.",
+      "tag": [
+        "Brasil",
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 35,
+      "category": "entretenimento",
+      "author": "Juliana Rocha",
+      "date": "01/04/2025",
+      "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6F2B51DC6121B8D1126A7E5DC199DD2B0B110CC50DADBFDF9F010368F2CD6BC2/scale?width=1200&aspectRatio=1.78&format=webp",
+      "title": "O Rei Leão 2: O Filme ganha data de lançamento",
+      "subtitle": "Continuação da história será lançada em 2026, com estreia mundial.",
+      "content": "'O Rei Leão 2', a sequência do sucesso de 1994, terá sua estreia mundial em 2026. A Disney revelou que o novo filme trará os filhos de Simba e Nala, que enfrentam novos desafios para proteger o Reino das Terras do Rei Leão.",
+      "tag": [
+        "Cinema"
+      ]
+    },
+    {
+      "id": 36,
+      "category": "economia",
+      "author": "Rafael Almeida",
+      "date": "05/04/2025",
+      "image": "https://admin.ecommercebrasil.com.br/wp-content/uploads/2023/08/7-mercado-financeiro-economia-2023.jpeg",
+      "title": "Mercado financeiro prevê crescimento de 3,5% para o Brasil em 2025",
+      "subtitle": "Perspectivas econômicas são otimistas com a recuperação pós-pandemia.",
+      "content": "O mercado financeiro está otimista para 2025, com uma previsão de crescimento do PIB de 3,5%. A recuperação econômica do Brasil é impulsionada pela retomada dos investimentos e a recuperação do consumo interno após os efeitos da pandemia.",
+      "tag": [
+        "Mundo"
+
+      ]
+    },
+    {
+      "id": 37,
+      "category": "esporte",
+      "author": "Vinícius Prado",
+      "date": "20/04/2025",
+      "image": "https://www.guarulhoshoje.com.br/wp-content/uploads/2020/11/maradona-22032019170346905.jpeg",
+      "title": "Maradona é homenageado em estádio de futebol em Buenos Aires",
+      "subtitle": "Estádio será renomeado em sua memória, em cerimônia emocionante.",
+      "content": "O estádio de La Bombonera, em Buenos Aires, foi renomeado em homenagem a Diego Maradona. A cerimônia contou com a presença de familiares do craque e ídolos do futebol mundial. A mudança visa eternizar o nome de Maradona, um dos maiores ícones da história do futebol.",
+      "tag": [
+        "Brasil",
+        "Futebol"
+      ]
+    },
+    {
+      "id": 38,
+      "category": "games",
+      "author": "Lucas Freitas",
+      "date": "22/04/2025",
+      "image": "https://cdn.oantagonista.com/uploads/2024/05/poster-gta-6-rockstar.webp",
+      "title": "GTA VI será lançado em 2025 e promete expandir o universo de Los Santos",
+      "subtitle": "Nova versão do jogo contará com uma cidade mais ampla e novas mecânicas de gameplay.",
+      "content": "O tão esperado GTA VI será lançado ainda em 2025, trazendo uma versão expandida da cidade de Los Santos. A Rockstar Games revelou que o novo jogo contará com gráficos melhorados, uma narrativa envolvente e novas possibilidades de interação no mundo aberto.",
+      "tag": [
+        "Mundo"
+      ]
+    },
+    {
+      "id": 39,
+      "category": "tecnologia",
+      "author": "Bruno Lima",
+      "date": "16/04/2025",
+      "image": "https://www.hardware.com.br/wp-content/uploads/2025/04/1-96.jpg",
+      "title": "Google Glass 2.0 é lançado com foco em empresas",
+      "subtitle": "Novo modelo de óculos inteligentes traz melhorias no design e funcionalidades.",
+      "content": "O Google Glass 2.0 foi oficialmente lançado, desta vez com um foco maior no mercado corporativo. O novo modelo de óculos inteligentes tem design mais discreto e oferece funcionalidades como reconhecimento facial e melhorias em realidade aumentada.",
+      "tag": [
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 40,
+      "category": "entretenimento",
+      "author": "Juliana Rocha",
+      "date": "10/04/2025",
+      "image": "https://conectageek.com.br/wp-content/uploads/2025/04/festival-de-cannes-2025.jpg",
+      "title": "Festival de Cannes 2025 anuncia filmes selecionados para a competição",
+      "subtitle": "Diversidade e inovação marcam a seleção deste ano.",
+      "content": "O Festival de Cinema de Cannes 2025 revelou os filmes selecionados para sua competição principal. O evento deste ano destaca produções de cineastas de diferentes partes do mundo, com forte ênfase em questões sociais e culturais, além de explorar novas formas de narrativa no cinema.",
+      "tag": [
+        "Mundo",
+        "Cinema"
+      ]
+    },
+    {
+      "id": 41,
+      "category": "economia",
+      "author": "Fernanda Costa",
+      "date": "30/03/2025",
+      "image": "https://jpimg.com.br/uploads/2024/09/drf20240912013-750x422.jpg",
+      "title": "Inflação no Brasil cai para 4,5% em 2025, mas preocupa com alimentos",
+      "subtitle": "Preços de alimentos continuam a subir, afetando as famílias mais pobres.",
+      "content": "A inflação no Brasil caiu para 4,5% em 2025, um resultado melhor do que o esperado. No entanto, os preços dos alimentos ainda são uma preocupação, com aumentos significativos nos custos de produtos essenciais como arroz, feijão e óleo.",
+      "tag": [
+        "Brasil"
+      ]
+    },
+    {
+      "id": 42,
+      "category": "esporte",
+      "author": "Vinícius Prado",
+      "date": "17/04/2025",
+      "image": "https://www.lance.com.br/galerias/wp-content/uploads/2024/09/AGIF23112608085380-761x474.jpg",
+      "title": "Seleção Brasileira se prepara para as Eliminatórias da Copa de 2026",
+      "subtitle": "Técnico Tite aposta em novos jogadores para renovar a equipe.",
+      "content": "A Seleção Brasileira já começou sua preparação para as Eliminatórias da Copa de 2026. O técnico Tite convocou novos nomes para a equipe, visando dar uma renovada ao time, mas sem abrir mão da experiência de jogadores como Neymar e Alisson.",
+      "tag": [
+        "Brasil",
+        "Seleção",
+        "Futebol"
+      ]
+    },
+    {
+      "id": 43,
+      "category": "games",
+      "author": "Lucas Freitas",
+      "date": "15/04/2025",
+      "image": "https://observatoriodegames.uol.com.br/wp-content/uploads/2020/06/GTA-V-PS5.jpg",
+      "title": "Fãs de GTA V clamam por atualizações para a versão de PS5",
+      "subtitle": "A Rockstar promete melhorias no modo online e novos conteúdos.",
+      "content": "Os fãs de GTA V estão ansiosos por novas atualizações para a versão do jogo no PS5. A Rockstar Games anunciou que irá lançar novos conteúdos para o modo online, incluindo carros, missões e até mesmo novas áreas para explorar no vasto mundo de Los Santos.",
+      "tag": [
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 44,
+      "category": "tecnologia",
+      "author": "Bruno Lima",
+      "date": "25/04/2025",
+      "image": "https://seletronic.com.br/wp-content/uploads/2023/12/windows-12-logo-IA-banner-800x500.jpg",
+      "title": "Microsoft apresenta o Windows 12 com foco em inteligência artificial",
+      "subtitle": "Novo sistema operacional promete integração profunda com IA e novas funcionalidades.",
+      "content": "A Microsoft revelou o Windows 12, com foco em inteligência artificial (IA). O novo sistema operacional promete recursos que irão facilitar o dia a dia do usuário, como assistentes virtuais mais inteligentes e maior integração com dispositivos IoT.",
+      "tag": [
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 45,
+      "category": "entretenimento",
+      "author": "Juliana Rocha",
+      "date": "02/04/2025",
+      "image": "https://www.estadao.com.br/resizer/v2/V25HH35PRVA53KE6HGWWULUPYU.jpg?quality=80&auth=82874bf045c913aeae9fe9b2db50c9689e77f838000aea281ea3599291a577c8&width=1200&height=630&focal=991,858",
+      "title": "Clássico da música brasileira, Roberto Carlos anuncia turnê de despedida",
+      "subtitle": "O cantor irá percorrer o Brasil em uma série de shows para encerrar sua carreira.",
+      "content": "Roberto Carlos, um dos maiores nomes da música brasileira, anunciou sua turnê de despedida. A série de shows será realizada em várias cidades do Brasil, e promete reunir uma multidão de fãs para uma última homenagem ao 'Rei'.",
+      "tag": [
+        "Brasil",
+        "IA",
+        "Música"
+      ]
+    },
+    {
+      "id": 46,
+      "category": "economia",
+      "author": "Rafael Almeida",
+      "date": "28/03/2025",
+      "image": "https://imagens.ebc.com.br/mNLTE84EZhsVaeeIT5txWwNsPwI=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moeda_020120a84t47195205.jpg?itok=dsb9SUuq",
+      "title": "Juros do crédito pessoal caem para o menor nível em 5 anos",
+      "subtitle": "Diminuição dos juros tem impulsionado o consumo das famílias brasileiras.",
+      "content": "Os juros do crédito pessoal caíram para o menor nível em cinco anos, o que tem impulsionado o consumo das famílias brasileiras. O mercado de crédito está mais acessível, com uma queda significativa nas taxas de empréstimos e financiamentos.",
+      "tag": [
+        "Brasil",
+        "IA"
+      ]
+    },
+    {
+      "id": 47,
+      "category": "esporte",
+      "author": "Carlos Silva",
+      "date": "12/04/2025",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5002,h_2813,x_0,y_407/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FGettyImages%2Fmmsport%2F90min_pt-BR_international_web%2F01hg1fp3gyq9at1tzamf.jpg",
+      "title": "Cristiano Ronaldo alcança 800 gols na carreira",
+      "subtitle": "Craque português celebra marco histórico com vitória de sua equipe.",
+      "content": "Cristiano Ronaldo alcançou a marca de 800 gols em sua carreira durante uma vitória de sua equipe. O jogador comemorou o feito com os fãs e afirmou que está mais motivado do que nunca para alcançar ainda mais recordes no futebol.",
+      "tag": [
+        "Brasil",
+        "Futebol",
+        "IA"
+      ]
+    },
+    {
+      "id": 48,
+      "category": "games",
+      "author": "Ana Beatriz",
+      "date": "14/04/2025",
+      "image": "https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2024/01/The-Legend-of-Zelda-Tears-of-the-Kingdom.webp?fit=1536%2C864&ssl=1",
+      "title": "The Legend of Zelda: Tears of the Kingdom é lançado e conquista fãs",
+      "subtitle": "Novo jogo da franquia traz uma experiência inovadora e cativante.",
+      "content": "The Legend of Zelda: Tears of the Kingdom foi lançado em 2025, trazendo uma experiência de gameplay totalmente nova. A sequência de 'Breath of the Wild' conquistou tanto a crítica quanto os fãs, com uma história envolvente e gráficos impressionantes.",
+      "tag": [
+        "Mundo",
+        "IA"
+      ]
+    },
+    {
+      "id": 49,
+      "category": "tecnologia",
+      "author": "Bruno Lima",
+      "date": "19/04/2025",
+      "image": "https://t2.tudocdn.net/661547?w=824&h=494",
+      "title": "Apple lança assistente de voz que promete revolucionar o mercado",
+      "subtitle": "O novo assistente tem funcionalidades aprimoradas e integração com diversos dispositivos.",
+      "content": "A Apple lançou seu novo assistente de voz, que promete revolucionar a forma como interagimos com dispositivos. Com funções aprimoradas, o assistente é capaz de aprender com os usuários e oferecer respostas ainda mais precisas e personalizadas.",
+      "tag": [
+        "Mundo"
+      ]
+    },
+    {
+      "id": 50,
+      "category": "entretenimento",
+      "author": "Juliana Rocha",
+      "date": "23/04/2025",
+      "image": "https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2025/07/22/855496570-374ea3dafa181d864005125c6a018049.jpg",
+      "title": "Vingadores 6 é confirmado, e novos heróis serão introduzidos",
+      "subtitle": "Marvel prepara um épico para os fãs com novos heróis e desafios.",
+      "content": "A Marvel anunciou oficialmente a produção de 'Vingadores 6', que trará novos heróis para a equipe. O filme promete ser um épico, com novos desafios para os Vingadores e ameaças ainda maiores para o universo cinematográfico da Marvel.",
+      "tag": [
+        "IA",
+        "Cinema"
+      ]
+    }
+  ]
+}
