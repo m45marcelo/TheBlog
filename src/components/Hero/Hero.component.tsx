@@ -1,5 +1,6 @@
 import { useNews } from "../../context/NewsContext.context";
-import Card1 from "../Card1/Card1.component";
+import Card1 from "../Cards/Card1/Card1.component";
+
 import { HeroContainer } from "./Hero.style";
 const Hero = () => {
     const { news } = useNews();

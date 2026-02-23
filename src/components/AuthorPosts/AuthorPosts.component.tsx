@@ -2,7 +2,7 @@ import { FaFacebookF, FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa";
 import { usePerfilLinks } from "../../context/PerfilImagesLink.context";
 import Aside from "../Aside/Aside.component";
 import { AuthorTitleSpan } from "../AuthorSocialMedia/AuthorSocialMedia.styles";
-import { CardAuthorItem, ImageAuthor } from "../CardAuthor/CardAuthor.styles";
+import { CardAuthorItem, ImageAuthor } from "../Cards/CardAuthor/CardAuthor.styles";
 import { ContainerBody } from "../ContainerBody/ContainerBody.style";
 import { DivLeft } from "../ContentContainer/ContentContainer.styles";
 import { ContentDiv, DivCards } from "../ContentDiv/ContentDiv.style";
@@ -12,7 +12,7 @@ import { ImageContainer } from "../PostInfo/PostInfo.style";
 import { AuthorInfosContainer, AuthorPostImage } from "./Authorposts.styles";
 import theme from "../../styles/theme";
 import { useNews } from "../../context/NewsContext.context";
-import Card2 from "../Card2/Card2.component";
+import Card2 from "../Cards/Card2/Card2.component";
 import NewsNotFound from "../NewsNotFound/NewsNotFound.component";
 
 const AuthorPosts = ({ perfilName }: { perfilName: string | null }) => {

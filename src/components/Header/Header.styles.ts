@@ -18,6 +18,11 @@ export const HeaderContainer = styled.header`
 export const HeaderLogo = styled.img`
     height: 2.9rem;
     cursor: pointer;
+
+    @media  (max-width: 480px){
+        display: flex;
+        height: 1.6rem;
+    }
 `;
 
 export const HeaderItems = styled.div`
@@ -36,5 +41,10 @@ export const HeaderItem = styled.div.withConfig({
 
     &:hover{
         border-bottom: 2px solid ${theme.colors.primary}
+    }
+
+    @media  (max-width: 480px){
+        display: flex;
+        font-size: 0.7rem;
     }
 `;

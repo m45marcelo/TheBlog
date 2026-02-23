@@ -8,7 +8,7 @@ export const ButtonNextPageContainer = styled.div`
     display: flex;
     height: 4.4rem;
     align-items: center;
-    margin: 4.8rem 0rem 5rem 0rem;
+    margin: 3rem 0rem 5rem 0rem;
 `
 
 export const ButtonNextPage = styled.button.withConfig({

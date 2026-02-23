@@ -1,3 +1,6 @@
+import { Link } from "react-router-dom";
+import { PropNews } from "../../../types/news.types";
+import CardCategory from "../CardCategory/CardCategory.component";
 import {
     Card2Container,
     Card2Image,
@@ -5,12 +8,9 @@ import {
     CardTitle,
 } from "./Card2.styles";
 import { FunctionComponent } from "react";
-import { PropNews } from "../../types/news.types";
-import CardCategory from "../CardCategory/CardCategory.component";
-import PostInfo from "../PostInfo/PostInfo.component";
-import { Link } from "react-router-dom";
-import { ContainerVideo } from "../NewsOpen/NewsOpen.styles";
+import { ContainerVideo } from "../../NewsOpen/NewsOpen.styles";
 import { Card4Video } from "../Card4/Card4.styles";
+import PostInfo from "../../PostInfo/PostInfo.component";
 
 const Card2: FunctionComponent<PropNews> = ({ news, section }) => {
     return (

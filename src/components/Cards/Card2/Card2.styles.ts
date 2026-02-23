@@ -1,5 +1,6 @@
 import styled from "styled-components";
-import theme from "../../styles/theme";
+import theme from "../../../styles/theme";
+
 
 interface Card2ContainerProps {
     card2height: string;
@@ -50,6 +51,10 @@ export const Card2Container = styled.div.withConfig({
     @media (min-width: 828px) and (max-width: 1024px){
         height: 296px;
         width: 260px;
+    }
+
+    @media  (max-width: 480px){
+        width: 100%;
     }
 `;
 

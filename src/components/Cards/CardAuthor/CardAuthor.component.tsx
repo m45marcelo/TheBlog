@@ -1,17 +1,17 @@
 import { FaFacebookF, FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa";
-import { PerfilImage } from "../../types/news.types";
-import { AuthorTitleSpan } from "../AuthorSocialMedia/AuthorSocialMedia.styles";
+import { PerfilImage } from "../../../types/news.types";
+import { AuthorTitleSpan } from "../../AuthorSocialMedia/AuthorSocialMedia.styles";
 import { Card2Container, Card2Image } from "../Card2/Card2.styles";
-import { GenericDivItems, GenericItem } from "../NewsOpen/NewsOpen.styles";
+import { GenericDivItems, GenericItem } from "../../NewsOpen/NewsOpen.styles";
 import {
     AuthorBioContainer,
     CardAuthorItem,
     ImageAuthor,
     ImageAuthorContainer,
 } from "./CardAuthor.styles";
-import theme from "../../styles/theme";
+import theme from "../../../styles/theme";
 import { Link } from "react-router-dom";
-import { CutterString } from "../../Functions/cutterString.function";
+import { CutterString } from "../../../Functions/cutterString.function";
 
 const CardAuthor = ({ perfilImage }: { perfilImage: PerfilImage }) => {
     return (

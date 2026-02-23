@@ -8,8 +8,12 @@ export const Container = styled.div`
     flex-direction: column;
     justify-content: center;
 
-    @media (max-width: 1024px) {
-        padding: 0 40px;
+    @media (min-width: 424px) and (max-width: 1024px) {
+        padding: 0 20px;
+    }
+
+    @media (max-width: 480px) {
+        padding: 0 20px;
     }
 `
 export const Screen = styled.div`

@@ -11,7 +11,7 @@ export const AsideContainer = styled.aside`
     gap: 3.8rem;
 
     @media (min-width: 924px) and (max-width: 1024px) {
-        width: 310px;
+        width: 180px;
     }
 
     @media (min-width: 828px) and (max-width: 924px) {
@@ -20,7 +20,7 @@ export const AsideContainer = styled.aside`
 `
 
 export const AsideDiv = styled.div`
-    margin-left: 2rem;
+    margin-left: 0rem;
     width: 100%;
 
     @media (max-width: 1024px) {

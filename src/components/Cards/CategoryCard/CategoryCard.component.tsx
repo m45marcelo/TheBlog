@@ -1,5 +1,5 @@
 import { FunctionComponent, useEffect, useState } from "react";
-import { useNews } from "../../context/NewsContext.context";
+import { useNews } from "../../../context/NewsContext.context";
 import {
     CategoryCardContainer,
     CategoryCardDiv,
@@ -7,8 +7,8 @@ import {
 } from "./CategoryCard.styles";
 
 import { Link } from "react-router-dom";
-import { useCategories } from "../../context/CategoriesContext.context";
-import { Categories } from "../../types/news.types";
+import { useCategories } from "../../../context/CategoriesContext.context";
+import { Categories } from "../../../types/news.types";
 
 interface CategoryCardProps {
     section: "Aside" | "Footer";

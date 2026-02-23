@@ -38,4 +38,9 @@ export const HeroContainer = styled.div`
     & div:nth-child(5) {
     grid-area: e;
 }
+
+@media  (max-width: 480px){
+        display: flex;
+        
+    }
 `

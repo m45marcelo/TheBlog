@@ -1,7 +1,7 @@
 import { FunctionComponent } from "react"
 import { CardCategoryContainer, CardCategoryName } from "./CardCategory.styles"
-import { PropNews } from "../../types/news.types"
-import theme from "../../styles/theme"
+import { PropNews } from "../../../types/news.types"
+import theme from "../../../styles/theme"
 import { Link } from "react-router-dom"
 
 

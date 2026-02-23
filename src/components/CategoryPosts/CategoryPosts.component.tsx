@@ -2,7 +2,8 @@ import { useCategories } from "../../context/CategoriesContext.context";
 import { useNews } from "../../context/NewsContext.context";
 import { Categories, News } from "../../types/news.types";
 import Aside from "../Aside/Aside.component";
-import Card2 from "../Card2/Card2.component";
+import Card2 from "../Cards/Card2/Card2.component";
+
 import { ContainerBody } from "../ContainerBody/ContainerBody.style";
 import { DivLeft } from "../ContentContainer/ContentContainer.styles";
 import { ContentDiv, DivCards, DivTitle } from "../ContentDiv/ContentDiv.style";

@@ -12,12 +12,12 @@ export const DivLeft = styled.div.withConfig({
     height: 100%;
     width: ${({maxWidth}) => maxWidth};
 
-    @media (max-width: 1024px) {
-        width: 600px;
-    }
-
     @media (min-width: 828px) and (max-width: 1024px){
         width: 500px;
+    }
+
+    @media  (max-width: 480px){
+        width: auto;
     }
 
 `

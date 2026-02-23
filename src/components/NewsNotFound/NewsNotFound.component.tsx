@@ -1,9 +1,10 @@
 import { ContainerBody } from "../ContainerBody/ContainerBody.style";
 import { NewsNotFoundContainer } from "../NewsOpen/NewsOpen.styles";
 import { NewsNotFoundImage } from "../NewsOpen/NewsOpen.styles";
-import { CardSubtitle } from "../Card2/Card2.styles";
+
 import { Link } from "react-router-dom";
 import { NewsNotFoundButton } from "../NewsOpen/NewsOpen.styles";
+import { CardSubtitle } from "../Cards/Card2/Card2.styles";
 
 const NewsNotFound = () => {
     return (

@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import theme from "../../styles/theme";
+import theme from "../../../styles/theme";
 
 interface Card5ContainerProps {
     cardheight: string;
@@ -41,8 +41,16 @@ export const Card5Container = styled.div.withConfig({
     cursor: pointer;
     gap: 1.4rem;
 
-    @media (max-width: 912px) {
-        width: 858px;
+    @media (min-width: 828px) and (max-width: 1200px){
+        flex-direction: column;
+        height: auto;
+        width: 240px;
+    }
+
+    @media (min-width: 0px) and (max-width: 412px){
+        flex-direction: column;
+        height: auto;
+        width: 100%;
     }
 `;
 
@@ -70,7 +78,14 @@ export const Card5Image = styled.div.withConfig({
     transition: 0.3s ease-in;
     &:hover{
         box-shadow: 0px 0px 30px 0px rgba(0,0,0,0.16);
-        
+    }
+
+    @media (min-width: 828px) and (max-width: 1200px){
+        width: 240px;
+    }
+
+    @media (min-width: 0px) and (max-width: 412px){
+        width: 100%;
     }
 `;
 
@@ -79,6 +94,11 @@ export const Card5InfoDiv = styled.div`
     width: 100%;
     display: grid;
     height: 15.6rem;
+
+    @media (min-width: 828px) and (max-width: 1200px){
+        width: auto;
+        height: auto;
+    }
 `
 
 export const Card5Title = styled.h2.withConfig({
@@ -104,7 +124,9 @@ export const Card5Title = styled.h2.withConfig({
     -webkit-line-clamp: 2; 
     -webkit-box-orient: vertical;
     line-height: ${({lineHeight}) => lineHeight};
-    
+    @media (min-width: 828px) and (max-width: 1200px){
+        font-size: 1.8rem;
+    }
 `;
 
 export const CardSubtitle = styled.h2.withConfig({
@@ -121,11 +143,16 @@ export const CardSubtitle = styled.h2.withConfig({
     letter-spacing: ${({ letterSpacing }) => letterSpacing};
     margin: ${({ cardMargin }) => cardMargin};
     height: ${({ cardTitleHeight }) => cardTitleHeight};
-    overflow: hidden; // Removendo barra de rolagem
-    text-overflow: ellipsis; // Adicionando "..." ao final
+    overflow: hidden; 
+    text-overflow: ellipsis;
     display: -webkit-box;
-    -webkit-line-clamp: 2; // Quantidade de linhas
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     line-height: ${({lineHeight}) => lineHeight};
+
+    @media (min-width: 828px) and (max-width: 1200px){
+        font-size: 1.4rem;
+        margin: 0.6rem 0rem
+    }
 `;
 

@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import theme from "../../styles/theme";
+import theme from "../../../styles/theme";
 
 interface CardBackgroundProps {
     cardInfoHeight: string;
@@ -24,6 +24,10 @@ export const Card4Container = styled.div`
     transition: 0.3s ease-in;
     &:hover{
         box-shadow: 0px 0px 30px 0px rgba(0,0,0,0.16);
+    }
+
+    @media (min-width: 0px) and (max-width: 820px) {
+        width: 10rem;
     }
 `
 

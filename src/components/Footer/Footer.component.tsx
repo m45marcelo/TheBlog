@@ -1,8 +1,8 @@
 import { useNews } from "../../context/NewsContext.context";
 import theme from "../../styles/theme";
 import { AsideContentDiv } from "../Aside/Aside.styles";
-import Card3 from "../Card3/Card3.component";
-import CategoryCard from "../CategoryCard/CategoryCard.component";
+import Card3 from "../Cards/Card3/Card3.component";
+import CategoryCard from "../Cards/CategoryCard/CategoryCard.component";
 import { DivTitle } from "../ContentDiv/ContentDiv.style";
 import {
     AboutItems,

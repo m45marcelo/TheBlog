@@ -12,10 +12,10 @@ import {
 } from "./NewsOpen.styles";
 import { NewsOpenProps } from "../../types/news.types";
 import { useNews } from "../../context/NewsContext.context";
-import { CardSubtitle, CardTitle } from "../Card2/Card2.styles";
+import { CardSubtitle, CardTitle } from "../Cards/Card2/Card2.styles";
 import { ContainerBody } from "../ContainerBody/ContainerBody.style";
-import CardCategory from "../CardCategory/CardCategory.component";
-import { CardCategoryDiv } from "../Card3/Card3.styles";
+import CardCategory from "../Cards/CardCategory/CardCategory.component";
+import { CardCategoryDiv } from "../Cards/Card3/Card3.styles";
 import PostInfo from "../PostInfo/PostInfo.component";
 import { DivLeft } from "../ContentContainer/ContentContainer.styles";
 import Aside from "../Aside/Aside.component";
@@ -32,8 +32,9 @@ import theme from "../../styles/theme";
 import AuthorSocialMedia from "../AuthorSocialMedia/AuthorSocialMedia.component";
 import PreviousNextPost from "../PreviousNextPost/PreviousNextPost.component";
 import { ContentDiv, DivTitle } from "../ContentDiv/ContentDiv.style";
-import Card5 from "../Card5/Card5.component";
-import { Card4Video } from "../Card4/Card4.styles";
+
+import { Card4Video } from "../Cards/Card4/Card4.styles";
+import Card5 from "../Cards/Card5/Card5.component";
 
 const NewsOpen: FunctionComponent<NewsOpenProps> = ({ idNews }) => {
     const { news } = useNews();

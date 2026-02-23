@@ -25,6 +25,11 @@ export const DivContainerGrig = styled.div`
     max-width: 124.4rem;
     width: 100%;
     margin: 0 auto;
+
+    @media  (max-width: 480px){
+        display: flex;
+        flex-direction: column;
+    }
 `
 
 export const DivFooter = styled.div`

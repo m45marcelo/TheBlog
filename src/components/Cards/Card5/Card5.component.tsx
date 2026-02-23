@@ -1,17 +1,11 @@
-import {
-    Card5Container,
-    Card5Image,
-    CardSubtitle,
-    Card5Title,
-    Card5ContentDiv,
-} from "./Card5.styles";
-import { FunctionComponent } from "react";
-import { PropNews } from "../../types/news.types";
-import CardCategory from "../CardCategory/CardCategory.component";
-import PostInfo from "../PostInfo/PostInfo.component";
-import { CardCategoryDiv } from "../Card3/Card3.styles";
-import { Card5InfoDiv } from "./Card5.styles";
+
 import { Link } from "react-router-dom";
+import { PropNews } from "../../../types/news.types";
+import { Card5Container, Card5ContentDiv, Card5Image, Card5InfoDiv, Card5Title, CardSubtitle } from "./Card5.styles";
+import { FunctionComponent } from "react";
+import { CardCategoryDiv } from "../Card3/Card3.styles";
+import CardCategory from "../CardCategory/CardCategory.component";
+import PostInfo from "../../PostInfo/PostInfo.component";
 
 const Card5: FunctionComponent<PropNews> = ({ news, section }) => {
     return (

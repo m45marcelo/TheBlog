@@ -13,7 +13,7 @@ export const NewsProvider = ({ children }: { children: React.ReactNode }) => {
     useEffect(() => {
         const fetchNews = async () => {
             try {
-                const { data } = await axios.get("http://localhost:3000/news");
+                const { data } = await axios.get("https://the-blog-json-server.vercel.app/db.json");
                 const formatterData: News[] = (data as News[]).map((item: News) => ({
                     ...item,
                     id: Number(item.id)

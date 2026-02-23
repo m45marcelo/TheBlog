@@ -1,12 +1,12 @@
 import { useNews } from "../../context/NewsContext.context";
 
 import { AsideDiv } from "./Aside.styles";
-import Card3 from "../Card3/Card3.component";
+import Card3 from "../Cards/Card3/Card3.component";
 import { AsideContentDiv } from "./Aside.styles";
 import { DivTitle } from "../ContentDiv/ContentDiv.style";
 //import { valueButton } from "../../Functions/buttonValue.function";
 
-import CategoryCard from "../CategoryCard/CategoryCard.component";
+import CategoryCard from "../Cards/CategoryCard/CategoryCard.component";
 import AuthorCard from "../RankingAuthorCard/RankingAuthorCard.component";
 import NewsletterDiv from "../NewsletterDiv/NewsletterDiv.component";
 import TagCard from "../TagCard/TagCard.component";

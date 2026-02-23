@@ -1,4 +1,4 @@
-import CardAuthorContent from "../../components/CardAuthorPage/CardAuthorPage.component";
+import CardAuthorContent from "../../components/Cards/CardAuthorPage/CardAuthorPage.component";
 import { Container } from "../../components/Container";
 import Footer from "../../components/Footer/Footer.component";
 import Header from "../../components/Header/Header.component";

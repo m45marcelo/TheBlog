@@ -5,10 +5,10 @@ import {
     Card4Container,
     Card4Video,
 } from "./Card4.styles";
-import { PropNews } from "../../types/news.types";
+import { PropNews } from "../../../types/news.types";
 import { FunctionComponent } from "react";
 import CardCategory from "../CardCategory/CardCategory.component";
-import PostInfo from "../PostInfo/PostInfo.component";
+import PostInfo from "../../PostInfo/PostInfo.component";
 import { Link } from "react-router-dom";
 
 const Card4: FunctionComponent<PropNews> = ({ news, section }) => {
@@ -22,6 +22,7 @@ const Card4: FunctionComponent<PropNews> = ({ news, section }) => {
                         muted
                         playsInline
                         disablePictureInPicture
+                        preload="metadata"
                     >
                         <source src={news.image} type="video/mp4" />
                     </Card4Video>

@@ -5,11 +5,12 @@ import {
     Card1Title,
     Card1Container,
 } from "./Card1.styles";
-import { PropNews } from "../../types/news.types";
+import { PropNews } from "../../../types/news.types";
 import { FunctionComponent } from "react";
 import CardCategory from "../CardCategory/CardCategory.component";
-import PostInfo from "../PostInfo/PostInfo.component";
+
 import { Link } from "react-router-dom";
+import PostInfo from "../../PostInfo/PostInfo.component";
 
 const Card1: FunctionComponent<PropNews> = ({ news }) => {
     let fontSize: string = "2.4rem";

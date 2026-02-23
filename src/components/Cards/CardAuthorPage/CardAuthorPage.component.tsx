@@ -1,9 +1,9 @@
-import { usePerfilLinks } from "../../context/PerfilImagesLink.context";
-import Aside from "../Aside/Aside.component";
+import { usePerfilLinks } from "../../../context/PerfilImagesLink.context";
+import Aside from "../../Aside/Aside.component";
 import CardAuthor from "../CardAuthor/CardAuthor.component";
-import { ContainerBody } from "../ContainerBody/ContainerBody.style";
-import { DivLeft } from "../ContentContainer/ContentContainer.styles";
-import { ContentDiv, DivCards, DivTitle } from "../ContentDiv/ContentDiv.style";
+import { ContainerBody } from "../../ContainerBody/ContainerBody.style";
+import { DivLeft } from "../../ContentContainer/ContentContainer.styles";
+import { ContentDiv, DivCards, DivTitle } from "../../ContentDiv/ContentDiv.style";
 
 const CardAuthorContent = () => {
     const { perfil } = usePerfilLinks();

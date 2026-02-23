@@ -5,10 +5,10 @@ import {
     CardInfoDiv,
     CardCategoryDiv,
 } from "./Card3.styles";
-import { PropNews } from "../../types/news.types";
+import { PropNews } from "../../../types/news.types";
 import CardCategory from "../CardCategory/CardCategory.component";
 import { CardTitle } from "../Card2/Card2.styles";
-import PostInfo from "../PostInfo/PostInfo.component";
+import PostInfo from "../../PostInfo/PostInfo.component";
 import { Link } from "react-router-dom";
 
 const Card3: FunctionComponent<PropNews> = ({ news, section }) => {
